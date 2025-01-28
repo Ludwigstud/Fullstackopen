@@ -1,10 +1,5 @@
-const Course = ({ info }) => {
-	return (
-		<li>
-			{info.name}: {info.exercises}
-		</li>
-	);
-};
+import { useState } from "react";
+import Course from "./components/Course";
 
 const App = () => {
 	const courses = [
@@ -71,8 +66,6 @@ const App = () => {
 					</div>
 				);
 			})}
-
-			
 		</>
 	);
 };
