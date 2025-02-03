@@ -1,0 +1,39 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": "1"
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": "3"
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": "4"
+    },
+    {
+      "id": "af25",
+      "name": "Ludde",
+      "number": "123"
+    },
+    {
+      "id": "19bb",
+      "name": "Billy joel",
+      "number": "5124 132213 3254213"
+    },
+    {
+      "id": "6e4d",
+      "name": "Ludwig bungus",
+      "number": "123 321 32123123"
+    },
+    {
+      "id": "a2b1",
+      "name": "arto hellas",
+      "number": ""
+    }
+  ]
+}
